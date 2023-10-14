@@ -32,11 +32,11 @@
 
 ### ✨ GitHub Stats & Baekjoon Solved Rank ✨
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jongwon97&show_icons=true&theme=devault)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jongwon97&show_icons=true&theme=slateorange)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whddnjs128)](https://solved.ac/whddnjs128)
 
 ### 📌 Projects
-- 🏆 OnTheBlock
+- OnTheBlock 🏆
   - 온더블록은 다양한 뮤지션들이 누구나 시공간에 구애받지 않고 함께 연주할 수 있으며, 자신만의 음악을 자유롭게 공유할 수 있는 플랫폼입니다.
-- 🏆 도깨비 봇
-  - 도깨비봇은 '도와주고 깨워주는 공부 비서 로봇'의 줄임말로, 시간과 장소의 제약 없이 혼자 있는 공간에서도 효율적으로 공부할 수 있도록 도와주는 웹IoT 서비스입니다.
+- 도깨비 봇 🏆
+   - 도깨비봇은 '도와주고 깨워주는 공부 비서 로봇'의 줄임말로, 시간과 장소의 제약 없이 혼자 있는 공간에서도 효율적으로 공부할 수 있도록 도와주는 웹IoT 서비스입니다.
