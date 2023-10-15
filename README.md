@@ -14,10 +14,7 @@
 ![MyBatis](https://img.shields.io/badge/MyBatis-339933.svg?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
-![JWT](https://img.shields.io/badge/JWT-5B4F88.svg?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-4A90E2.svg?style=for-the-badge&logo=OAuth&logoColor=white)
-![STOMP](https://img.shields.io/badge/STOMP-YourColorHere.svg?style=for-the-badge&logo=Shoe&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900.svg?style=for-the-badge&logo=Amazon%20S3&logoColor=white)
+
 
 ### 📚 Frontend 📚
 
@@ -36,7 +33,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whddnjs128)](https://solved.ac/whddnjs128)
 
 ### 📌 Projects
-- OnTheBlock - SSAFY 특화 프로젝트 수상🏆
-  - 온더블록은 다양한 뮤지션들이 누구나 시공간에 구애받지 않고 함께 연주할 수 있으며, 자신만의 음악을 자유롭게 공유할 수 있는 플랫폼입니다.
+- OnTheBlock - SSAFY 특화 프로젝트 우수상🏆
 - 도깨비 봇 - SSAFY 공통 프로젝트 우수상🏆
-   - 도깨비봇은 '도와주고 깨워주는 공부 비서 로봇'의 줄임말로, 시간과 장소의 제약 없이 혼자 있는 공간에서도 효율적으로 공부할 수 있도록 도와주는 웹IoT 서비스입니다.
