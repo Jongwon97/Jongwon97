@@ -9,8 +9,8 @@
 ### 📚 Backend 📚
 
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-00A98F.svg?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-663399.svg?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA_Hibernate-green.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-339933.svg?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
