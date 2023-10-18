@@ -35,3 +35,4 @@
 ### 📌 Projects
 - OnTheBlock - SSAFY 특화 프로젝트 우수상🏆
 - 도깨비 봇 - SSAFY 공통 프로젝트 우수상🏆
+- enjoytrip - SSAFY 관통 프로젝트
