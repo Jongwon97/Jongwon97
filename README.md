@@ -33,6 +33,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whddnjs128)](https://solved.ac/whddnjs128)
 
 ### 📌 Projects
-- OnTheBlock - SSAFY 특화 프로젝트 우수상🏆
+- [OnTheBlock](https://github.com/Jongwon97/OnTheBlock) - SSAFY 특화 프로젝트 우수상🏆
 - 도깨비 봇 - SSAFY 공통 프로젝트 우수상🏆
 - Enjoytrip - SSAFY 관통 프로젝트
