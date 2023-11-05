@@ -32,5 +32,5 @@
 
 ### 📌 Projects
 - [OnTheBlock](https://github.com/Jongwon97/OnTheBlock) - SSAFY 특화 프로젝트 우수상🏆
-- 도깨비 봇 - SSAFY 공통 프로젝트 우수상🏆
+- [도깨비 봇](https://github.com/Jongwon97/Dokkaebibot) - SSAFY 공통 프로젝트 우수상🏆
 - Enjoytrip - SSAFY 관통 프로젝트
