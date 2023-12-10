@@ -31,6 +31,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whddnjs128)](https://solved.ac/whddnjs128)
 
 ### 📌 Projects
-- [세상에 나쁜 보호자는 있다]() - SSAFY 9기 자율 프로젝트 수상🏆
-- [OnTheBlock](https://github.com/Jongwon97/OnTheBlock) - SSAFY 9기 특화 프로젝트 우수상🏆
 - [도깨비 봇](https://github.com/Jongwon97/Dokkaebibot) - SSAFY 9기 공통 프로젝트 우수상🏆
+- [OnTheBlock](https://github.com/Jongwon97/OnTheBlock) - SSAFY 9기 특화 프로젝트 우수상🏆
+- [세상에 나쁜 보호자는 있다]() - SSAFY 9기 자율 프로젝트 수상🏆
+
