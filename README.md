@@ -31,7 +31,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whddnjs128)](https://solved.ac/whddnjs128)
 
 ### 📌 Projects
-- [도깨비 봇](https://github.com/Jongwon97/Dokkaebibot) - SSAFY 9기 공통 프로젝트 우수상🏆
-- [OnTheBlock](https://github.com/Jongwon97/OnTheBlock) - SSAFY 9기 특화 프로젝트 우수상🏆
-- [Senabo(세상에 나쁜 보호자는 있다)](https://github.com/Jongwon97/senabo) - SSAFY 9기 자율 프로젝트 우수상🏆
+- [Dokkaebi bot](https://github.com/Jongwon97/Dokkaebibot) - 올바른 공부 습관 분석 서비스
+- [OnTheBlock](https://github.com/Jongwon97/OnTheBlock) - 온라인 합주 플랫폼
+- [Senabo](https://github.com/Jongwon97/senabo) - 반려견 육성 시뮬레이터
 
