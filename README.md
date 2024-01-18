@@ -31,7 +31,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whddnjs128)](https://solved.ac/whddnjs128)
 
 ### 📌 Projects
-- [Dokkaebi bot](https://github.com/Jongwon97/Dokkaebibot) - 올바른 공부 습관 분석 서비스
-- [OnTheBlock](https://github.com/Jongwon97/OnTheBlock) - 온라인 합주 플랫폼
-- [Senabo](https://github.com/Jongwon97/senabo) - 반려견 육성 시뮬레이터
+- [Dokkaebi bot](https://github.com/Jongwon97/Dokkaebibot) - 웹 IOT 기술을 활용한 올바른 공부 습관 분석 서비스
+- [OnTheBlock](https://github.com/Jongwon97/OnTheBlock) - 웹 기술을 활용한 온라인 합주 플랫폼
+- [Senabo](https://github.com/Jongwon97/senabo) - 모바일 앱 반려견 육성 시뮬레이터
 
