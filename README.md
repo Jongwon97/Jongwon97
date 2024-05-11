@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=FFA500&size=35&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello!+I'm+JongWon.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-click-orange?style=for-the-badge)](https://github.com/Jongwon97/Jongwon97/blob/main/portfolio/portfolio_LeeJongWon.pdf)
-
-
 ### 💻 Tech Stack 💻
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C.svg?style=flat-square&logo=C&logoColor=white)
